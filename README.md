@@ -1,5 +1,5 @@
 # Build Yor Own World
-- Project in the class Data Structure and Software Engineering
+- Generated Tile based 2D world with given number. Every number input changes the formation of the world
 - Received **Full Point** for High Achievement for the project
 
 Spec: [Link](https://fa24.datastructur.es/projects/proj3/)
