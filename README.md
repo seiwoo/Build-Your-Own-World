@@ -1,6 +1,7 @@
 # Build Yor Own World
+**Programming Language** : Python
 - Generated Tile based 2D world with given number. Every number input changes the formation of the world
-- Received **Full Point** for High Achievement for the project
+- Received **Full Point** for High Achievement for the project.
 
 Spec: [Link](https://fa24.datastructur.es/projects/proj3/)
 
